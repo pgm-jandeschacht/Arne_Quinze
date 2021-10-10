@@ -1,9 +1,5 @@
 # Arne Quinze
 
-Maak de website van Arne Quinze zo goed mogelijk na.
-|           |                                  |
-| --------- | -------------------------------- |
-| Firstname | Jan                              |
-| Lastname  | Deschacht                        |
-| Gender    | :male_sign:                      |
-| Email     | jan.desch@student.arteveldehs.be |
+This is a clone website of the official Arne Quinze wesbite. This was an assignment for Artevelde.
+
+Technologies used: Javascript, CSS and HTML
